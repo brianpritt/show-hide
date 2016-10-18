@@ -1,0 +1,14 @@
+#initiallyHidden1, #initiallyHidden2, #initiallyHidden3, #initiallyHidden4, #initiallyHidden5 {
+  display: none;
+}
+.clickable {
+  cursor: pointer;
+  color: #0088ee;
+}
+.clickable:hover {
+  text-decoration: underline;
+}
+ img {
+   height: 300px;
+
+ }
